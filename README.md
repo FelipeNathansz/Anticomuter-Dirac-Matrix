@@ -1,2 +1,4 @@
 # Anticomuter-Dirac-Matrix
-Este projeto realiza uma simulação e visualização gráfica 3D dos anticomutadores entre as matrizes de Dirac  𝛾 𝜇 γ  μ  , fundamentais na descrição de férmions relativísticos na equação de Dirac.
+Este projeto tem como objetivo demonstrar a assimetria e desassociatividade entre os anticomutadores das matrizes de Dirac,destacando como essas variações surgem a partir de suas interações com espinores — soluções da equação de Dirac que representam férmions relativísticos.
+
+
